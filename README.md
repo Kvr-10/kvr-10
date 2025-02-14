@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Java-based web applications  
 - 🌱 I’m currently learning Spring Boot  
-- 👨‍💻 All of my projects are available at [kvr-10.github.io](https://kvr-10.github.io)  
+- 👨‍💻 All of my projects are available at my [website](https://kvr-10.github.io)  
 - 📄 Know about my experiences: [Resume](https://kvr-10.github.io/Chaman_Sinha_Resume.pdf)
 
 ---
@@ -12,7 +12,7 @@
   <h3 align="center">🔥 My GitHub Stats:</h3>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kvr-10&show_icons=true&title_color=cc9724&text_color=ea6d1a&bg_color=2a292e&locale=en" alt="GitHub stats for kvr-10" /></p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kvr-10&show_icons=true&title_color=d0b425&text_color=ee7e17&bg_color=2d2525&locale=en&layout=compact" alt="Top languages for kvr-10" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kvr-10&theme=dark" alt="GitHub streak for kvr-10" /></p>
+ <!--- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kvr-10&theme=dark" alt="GitHub streak for kvr-10" /></p>--->
 </div>
 
 ---
